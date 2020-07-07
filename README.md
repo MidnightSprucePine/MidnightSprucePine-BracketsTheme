@@ -1,1 +1,3 @@
 # MidnightSprucePine-BracketsTheme
+
+# Coming soon!
